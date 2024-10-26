@@ -1,0 +1,12 @@
+
+.container{
+    
+    display: flex;
+    justify-content: center;
+}
+.container1{
+    height: 600px;
+    width: 450px;
+    background-color: aqua;
+    border-radius: 25px;
+}
