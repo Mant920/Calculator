@@ -3,6 +3,7 @@
     
     display: flex;
     justify-content: center;
+    margin-top:150px;
 }
 .container1{
     height: 550px;
