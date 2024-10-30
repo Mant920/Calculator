@@ -5,8 +5,76 @@
     justify-content: center;
 }
 .container1{
-    height: 600px;
+    height: 550px;
     width: 450px;
     background-color: aqua;
+    border: solid black;
     border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.screen{
+    height: 150px;
+    width:350px;
+    background-color: darkgrey;
+    border: solid black;
+    margin-top: 50px;
+
+}
+.OpNum{
+    display: flex;
+    margin-top: 30px;
+    flex-direction: column;
+    gap: 20px;
+        
+}
+.operators{
+    display: flex;
+    gap: 10px;
+}
+.numbers{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+button{
+    border-radius: 8px;
+    height: 30px;
+    width: 55px;
+    transition-duration: 0.3s;
+    border: solid white;
+
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
+.clear{
+    display: flex;
+    justify-content: center;
+}
+.clearbtn{
+    border-radius: 50%;
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    
+}
+.lower{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+.undobtn{
+    height: 150px;
+    width: 55px;
+    background-color: black;
+    color: white;
+
 }
