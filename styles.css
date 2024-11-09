@@ -31,6 +31,9 @@
     gap: 20px;
         
 }
+body{
+    font-size: 30px;
+}
 .operators{
     display: flex;
     gap: 10px;
