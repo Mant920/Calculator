@@ -1,6 +1,6 @@
 //Buttons
 
 //Variables for operations
-let op1=0;
-let sign;
-let op2=0;
+let num1=0;
+let operator;
+let num2=0;
