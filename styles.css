@@ -91,3 +91,10 @@ button:active {
     color: white;
 
 }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
