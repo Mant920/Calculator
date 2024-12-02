@@ -22,8 +22,12 @@
     background-color:lightgray;
     border: solid black;
     margin-top: 50px;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
+
 .OpNum{
     display: flex;
     margin-top: 30px;
